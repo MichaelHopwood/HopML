@@ -1,6 +1,5 @@
 # HopML
-An educational statistics &amp; ML package handwritten from scratch numpy
 
-
+Website: https://hopml.readthedocs.io/en/latest/
 
 Website build information is located at: https://readthedocs.org/projects/hopml/builds/
