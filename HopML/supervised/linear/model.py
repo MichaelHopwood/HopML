@@ -346,38 +346,6 @@ class PolynomialModel(Model, TimeWeightedProcess):
 
         return
 
-class DiodeInspiredModel(Model, TimeWeightedProcess):
-    """Generate a regression kernel derived from the diode model, originally meant to model voltage.
-    (static equation):  Y(α , X) = α_0 + α_1 POA + α_2 Temp + α_3 ln(POA) + α_4 ln(Temp)
-    """
-    def __init__(self,
-                 estimators=None,
-                 time_weighted=None,
-                 verbose=0,
-                 X_parameters=[]):
-        super().__init__(estimators)
-        self.time_weighted = time_weighted
-        self.verbose = verbose
-        self.X_parameters = X_parameters
-
-    def construct(self, X, y, data_split='train'):
-        # Diode Inspired
-        # Requires that xs inputs be [POA, Temp], in that order
-        xs = np.hstack((X, np.log(X)))
-
-        if not isinstance(self.time_weighted, type(None)):
-            X = self.time_weight(
-                X, time_weighted=self.time_weighted, data_split=data_split)
-
-        if data_split == 'train':
-            self.train_X = xs
-            self.train_y = y
-        elif data_split == 'test':
-            self.test_X = xs
-            self.test_y = y
-        return
-
-
 def modeller(prod_col_dict,
              kernel_type='default',
              time_weighted='month',
