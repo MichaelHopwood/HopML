@@ -2,6 +2,6 @@
 
 ## Least-squares
 
-$$\hat{Y} = \beta_0 + \sum_{i=1}^n X_{i} \beta_j$$
+$$\hat{Y} = \hat{\beta_0} + \sum_{i=1}^n X_{i} \hat{\beta_j}$$
 
-Where the $\beta_0$ term is the bias
+Where the $\beta_0$ term is the model *bias*. If rewriting with 
