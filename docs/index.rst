@@ -6,8 +6,8 @@ Hello, I am a PhD student at the University of Central Florida studying data sci
 Summarized results of select journal papers, conference proceedings, hackathons, and personal projects are located in `projects <projects.rst>`_.
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Notes:
+   :maxdepth: 2
+   :caption: Content:
 
    notes
    projects

@@ -36,7 +36,7 @@ To circumvent having to induce failures in real systems for data collection (as 
 
 .. image:: _static/ieeeaccess_simulation_iv_nn.png
 
-http://icufn.org/wp-content/uploads/2021/08/ICUFN-2021-Final-Program-Version-Revised.pdf
+
 
 pvOps: Improving Operational Assessments through Data Fusion
 ################
