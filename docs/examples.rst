@@ -8,3 +8,4 @@ Check out the notes below!
    :caption: List of notes:
 
    nblinks/supervised/1.nblink
+   nblinks/statistical_tests/1.nblink
