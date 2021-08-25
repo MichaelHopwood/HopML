@@ -1,3 +1,4 @@
-.. _my-projects:
+Projects
+========
 
-.. image:: tent.png
+A
