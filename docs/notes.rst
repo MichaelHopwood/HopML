@@ -5,7 +5,6 @@ The notes on this website was written during my PhD in data science. Below are a
 
 .. toctree::
    :maxdepth: 2
-   :caption: Notes:
 
    statistical_tests
    supervised
