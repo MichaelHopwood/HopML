@@ -56,3 +56,10 @@ Through a competition with an energy utility provider, a detection task was cond
 
 
 
+Generalized Low-Rank Models for Parking Garage Capacity Modeling
+#######################
+
+Participation in a Stanford hackathon for a few hours was conducted studying the parking capacity levels across different garages at UCF. A GLRM was built to summarize a model which best fit busy-day conditions that way deviations from this model would symbolize smaller-than-normal capacity given the time of day. Specifically, a set of regularization methods were adopted to minimize the construction loss where a busy day is mandated to be smooth, parabolic, and similar to other busy days. The results generated interesting garage-specific profiles; additionally, garage capacity changes due to covid were analyzed. The `code <https://github.com/MichaelHopwood/UCFParkingAI>`_ and `paper <https://github.com/MichaelHopwood/HopML/blob/main/docs/_static/UCFParkingAI.pdf>`_ are available online.
+
+
+.. image:: _static/stanford_hackathon_parkingGarages.png
