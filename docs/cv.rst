@@ -1,0 +1,1 @@
+:pdfembed:`src:_static/MICHAEL_HOPWOOD_CV.pdf, height:1600, width:1300, align:middle`
