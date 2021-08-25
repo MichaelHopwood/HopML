@@ -1,3 +1,4 @@
 ipykernel
 nbsphinx
 nbsphinx-link
+sphinxcontrib-packages
