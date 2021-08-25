@@ -8,6 +8,8 @@ Abridged Notes from my PhD in Data Science
    examples
 
 
+Here is CV: <_static/MICHAEL_HOPWOOD_CV.pdf>`_
+
 Indices and tables
 ==================
 
