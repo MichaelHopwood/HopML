@@ -7,5 +7,5 @@ The notes on this website was written during my PhD in data science. Below are a
    :maxdepth: 2
 
    statistical_tests
-   supervised
+   ML
 
