@@ -10,4 +10,3 @@ The notes on this website was written during my PhD in data science. Below are a
    nblinks/hmm.nblink
    nblinks/nn_learning.nblink
    nblinks/inversion_methods.nblink
-
