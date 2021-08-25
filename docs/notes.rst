@@ -6,6 +6,7 @@ The notes on this website was written during my PhD in data science. Below are a
 .. toctree::
    :maxdepth: 2
 
-   statistical_tests
-   ML
+   nblinks/intro_supervised.nblink
+   nblinks/hmm.nblink
+   nblinks/inversion_methods.nblink
 
