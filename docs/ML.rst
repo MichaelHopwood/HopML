@@ -7,4 +7,5 @@ Check out the notes below!
    :maxdepth: 2
    :caption: List of notes related to supervised models:
 
-   nblinks/supervised/1.nblink
+   nblinks/ML/1.nblink
+   nblinks/ML/hmm.nblink
