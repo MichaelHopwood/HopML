@@ -15,4 +15,9 @@ The notes on this website was written during my PhD in data science. Below are a
    nblinks/model_summaries.nblink
    nblinks/explainable_ai.nblink
    nblinks/gans.nblink
+   nblinks/AB_testing.nblink
+   nblinks/Attention.nblink
+   nblinks/Bootstrapping.nblink
+   nblinks/Common_interview_questions.nblink
+   nblinks/Cross_entropy.nblink
 
