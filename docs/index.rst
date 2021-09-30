@@ -16,3 +16,4 @@ This website was built to be a portfolio for others to see; however, perhaps mor
 
    projects
    notes
+   resources
