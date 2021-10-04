@@ -18,6 +18,7 @@ The notes on this website was written during my PhD in data science. Below are a
    nblinks/AB_testing.nblink
    nblinks/Attention.nblink
    nblinks/Bootstrapping.nblink
+   nblinks/Jackknife_sample.nblink
    nblinks/Common_interview_questions.nblink
    nblinks/Cross_entropy.nblink
 
