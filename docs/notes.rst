@@ -22,4 +22,4 @@ The notes on this website was written during my PhD in data science. Below are a
    nblinks/Markov_chain_monte_carlo.nblink
    nblinks/Common_interview_questions.nblink
    nblinks/Cross_entropy.nblink
-
+   nblinks/Regularization.nblink
