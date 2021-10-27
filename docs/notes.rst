@@ -23,3 +23,4 @@ The notes on this website was written during my PhD in data science. Below are a
    nblinks/Common_interview_questions.nblink
    nblinks/Cross_entropy.nblink
    nblinks/Regularization.nblink
+   nblinks/Support_Vector_Machine.nblink
