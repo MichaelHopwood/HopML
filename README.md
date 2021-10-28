@@ -2,6 +2,10 @@
 
 An educational statistics & ML package which covers the myriad of methods in data science
 
-Website: https://hopml.readthedocs.io/en/latest/
+## Website: 
+www.mhopwood.com/
 
-Website build information is located at: https://readthedocs.org/projects/hopml/builds/
+https://hopml.readthedocs.io/en/latest/
+
+## Website debug:
+https://readthedocs.org/projects/hopml/builds/
