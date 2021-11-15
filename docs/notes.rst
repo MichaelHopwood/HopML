@@ -24,3 +24,5 @@ The notes on this website was written during my PhD in data science. Below are a
    nblinks/Cross_entropy.nblink
    nblinks/Regularization.nblink
    nblinks/Support_Vector_Machine.nblink
+   nblinks/Root_finding.nblink
+

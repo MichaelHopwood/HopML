@@ -9,4 +9,6 @@ Derivatives of Lin. Algebra: http://michael.orlitzky.com/articles/the_derivative
 
 Use non-linear model at end of NN : https://www.reddit.com/r/MachineLearning/comments/qex0o7/d_mlps_are_actually_nonlinear_linear/
 
+Computer science at UCF: https://www.cs.ucf.edu/~kienhua/classes/
 
+Statistics with proofs and python: https://xavierbourretsicotte.github.io/#
