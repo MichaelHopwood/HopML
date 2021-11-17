@@ -2,7 +2,7 @@ Projects
 ========
 
 
-Exploring a link between network topology and active learning
+`Exploring a link between network topology and active learning <https://ieeexplore.ieee.org/document/9528662>`_
 ################
 
 Active learning in graph neural networks can provide similar, if not better, results in a node classification task simply by ordering the input data in the training process. An ordering process is studied and an empirical rule-of-thumb is established to infer the best ordering based off the topology of the network. This work was formalized in a `peer-review paper <https://www.mdpi.com/2078-2489/12/4/170>`_ and a `conference paper <http://icufn.org/wp-content/uploads/2021/08/ICUFN-2021-Final-Program-Version-Revised.pdf>`_.
