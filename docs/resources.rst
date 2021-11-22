@@ -12,3 +12,13 @@ Use non-linear model at end of NN : https://www.reddit.com/r/MachineLearning/com
 Computer science at UCF: https://www.cs.ucf.edu/~kienhua/classes/
 
 Statistics with proofs and python: https://xavierbourretsicotte.github.io/#
+
+
+Cool Papers
+======
+
+Uncertainty estimation NN: https://arxiv.org/pdf/2003.02037.pdf
+
+Decomposing sensitivity components for calibration: https://arxiv.org/pdf/2110.14577.pdf
+
+
