@@ -7,6 +7,7 @@ The notes on this website was written during my PhD in data science. Below are a
    :maxdepth: 2
 
    nblinks/intro_supervised.nblink
+   nblinks/Discriminant_analysis.nblink
    nblinks/monte_carlo_integration.nblink
    nblinks/hmm.nblink
    nblinks/nn_learning.nblink
