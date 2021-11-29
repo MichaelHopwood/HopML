@@ -13,6 +13,8 @@ Computer science at UCF: https://www.cs.ucf.edu/~kienhua/classes/
 
 Statistics with proofs and python: https://xavierbourretsicotte.github.io/#
 
+Statistics notes written out on Twitter: https://twitter.com/mervenoyann/status/1386752998131605510
+
 
 Cool Papers
 ======
