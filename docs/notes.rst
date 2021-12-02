@@ -8,22 +8,16 @@ The notes on this website was written during my PhD in data science. Below are a
 
    nblinks/intro_supervised.nblink
    nblinks/Discriminant_analysis.nblink
-   nblinks/monte_carlo_integration.nblink
    nblinks/hmm.nblink
    nblinks/nn_learning.nblink
-   nblinks/inversion_methods.nblink
    nblinks/network_science.nblink
    nblinks/model_summaries.nblink
    nblinks/explainable_ai.nblink
    nblinks/gans.nblink
    nblinks/AB_testing.nblink
    nblinks/Attention.nblink
-   nblinks/Bootstrapping.nblink
-   nblinks/Jackknife_sample.nblink
-   nblinks/Markov_chain_monte_carlo.nblink
    nblinks/Common_interview_questions.nblink
    nblinks/Cross_entropy.nblink
    nblinks/Regularization.nblink
-   nblinks/Support_Vector_Machine.nblink
-   nblinks/Root_finding.nblink
+
 

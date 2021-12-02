@@ -18,7 +18,7 @@ Statistics notes written out on Twitter: https://twitter.com/mervenoyann/status/
 Data science project (including XGBoost) example implementation: https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/06-trees/notebook.ipynb
 
 Cool Papers
-======
+################
 
 Uncertainty estimation NN: https://arxiv.org/pdf/2003.02037.pdf
 
