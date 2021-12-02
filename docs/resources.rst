@@ -15,6 +15,7 @@ Statistics with proofs and python: https://xavierbourretsicotte.github.io/#
 
 Statistics notes written out on Twitter: https://twitter.com/mervenoyann/status/1386752998131605510
 
+Data science project (including XGBoost) example implementation: https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/06-trees/notebook.ipynb
 
 Cool Papers
 ======
