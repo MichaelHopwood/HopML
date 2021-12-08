@@ -17,6 +17,11 @@ Statistics notes written out on Twitter: https://twitter.com/mervenoyann/status/
 
 Data science project (including XGBoost) example implementation: https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/06-trees/notebook.ipynb
 
+Data science project template: https://drivendata.github.io/cookiecutter-data-science/#cookiecutter-data-science
+
+Deep learning descriptions: https://arthurdouillard.com/deepcourse/
+
+
 Cool Papers
 ################
 
