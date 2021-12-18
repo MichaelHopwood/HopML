@@ -21,6 +21,8 @@ Data science project template: https://drivendata.github.io/cookiecutter-data-sc
 
 Deep learning descriptions: https://arthurdouillard.com/deepcourse/
 
+DL Timeseries Reserve: https://github.com/Alro10/deep-learning-time-series
+
 
 Cool Papers
 ################
@@ -28,5 +30,9 @@ Cool Papers
 Uncertainty estimation NN: https://arxiv.org/pdf/2003.02037.pdf
 
 Decomposing sensitivity components for calibration: https://arxiv.org/pdf/2110.14577.pdf
+
+HMM -> ODE: http://www.stat.columbia.edu/~liam/teaching/neurostat-fall20/papers/hmm/minka-lds-techreport.pdf
+
+Data + ODE: https://arxiv.org/pdf/2103.10153.pdf
 
 
