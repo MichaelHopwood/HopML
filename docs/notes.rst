@@ -20,4 +20,4 @@ The notes on this website was written during my PhD in data science. Below are a
    nblinks/Cross_entropy.nblink
    nblinks/Regularization.nblink
    nblinks/theoretical_statistics.nblink
-
+   nblinks/theoretical_statistics_questions.nblink
