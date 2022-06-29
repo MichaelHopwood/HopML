@@ -21,3 +21,9 @@ The notes on this website was written during my PhD in data science. Below are a
    nblinks/Regularization.nblink
    nblinks/theoretical_statistics.nblink
    nblinks/theoretical_statistics_questions.nblink
+   nblinks/bootstrapping_method.nblink
+   nblinks/inversion_method.nblink
+   nblinks/jackknife_sample_method.nblink
+   nblinks/markov_chain_monte_carlo_method.nblink
+   nblinks/svm.nblink
+   nblinks/nlp.nblink
