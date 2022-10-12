@@ -27,3 +27,4 @@ The notes on this website was written during my PhD in data science. Below are a
    nblinks/markov_chain_monte_carlo_method.nblink
    nblinks/svm.nblink
    nblinks/nlp.nblink
+   nblinks/scaling_graph_neural_networks.nblink
