@@ -28,3 +28,4 @@ The notes on this website was written during my PhD in data science. Below are a
    nblinks/svm.nblink
    nblinks/nlp.nblink
    nblinks/scaling_graph_neural_networks.nblink
+   nblinks/ContextualBandits.nblink
