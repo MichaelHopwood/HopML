@@ -29,3 +29,8 @@ The notes on this website was written during my PhD in data science. Below are a
    nblinks/nlp.nblink
    nblinks/scaling_graph_neural_networks.nblink
    nblinks/ContextualBandits.nblink
+   nblinks/Basic_neural_networks.nblink
+   nblinks/Gradient_descent.nblink
+   nblinks/LeastSquaresSVM.nblink
+   nblinks/RegularizationMethods.nblink
+   nblinks/SVMAdaptations.nblink
