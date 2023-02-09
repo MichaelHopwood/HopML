@@ -35,3 +35,4 @@ The notes on this website was written during my PhD in data science. Below are a
    .. nblinks/RegularizationMethods.nblink
    .. nblinks/SVMAdaptations.nblink
    nblinks/nn_gaussian_process.nblink
+   nblinks/KernelPCA.nblink
