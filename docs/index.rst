@@ -17,9 +17,5 @@ This website was built to be a portfolio for others to see; however, perhaps mor
    :caption: Content:
 
    projects
-<<<<<<< HEAD
-   notes
-=======
    notes
    resources
->>>>>>> 4926511522daae402c68cc28863a232e7351e880
